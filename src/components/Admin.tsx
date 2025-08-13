@@ -333,7 +333,7 @@ const Admin: React.FC = () => {
   if (!isAuthenticated) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 flex items-center justify-center p-4">
-        <Card className="w-full max-w-md shadow-xl border-0 bg-white/10 backdrop-blur-md text-white">
+        <Card className="w-full max-w-md shadow-xl border-0 bg-white/10 backdrop-blur-md text-white" role="dialog" aria-labelledby="admin-login">
           <CardHeader className="text-center">
             <div className="mx-auto w-16 h-16 bg-indigo-600 rounded-full flex items-center justify-center mb-4">
               <Lock className="w-8 h-8 text-white" />
