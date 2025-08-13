@@ -2,8 +2,8 @@ import { createClient } from '@supabase/supabase-js';
 import { Database } from '@/types/database';
 
 // Supabase configuration
-const supabaseUrl = 'https://toefl-quiz-app.supabase.co';
-const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRvZWZsLXF1aXotYXBwIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTg3NjU0MzIsImV4cCI6MjAxNDM0MTQzMn0.example-key';
+const supabaseUrl = 'https://pxwicfzjmptobvyhonhv.supabase.co';
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4d2ljZnpqbXB0b2J2eWhvbmh2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ3NDM3OTUsImV4cCI6MjA3MDMxOTc5NX0.ZSHrAJEcz1qDm3M2rK9ry_1Yl8cJh8xakh6rQ6Ea4gE';
 
 // Create Supabase client
 export const supabase = createClient<Database>(supabaseUrl, supabaseAnonKey);

@@ -149,54 +149,7 @@ const QuizResults: React.FC = () => {
     }
   };
 
-  // Real student data from class 12.C with real scores
-  const classStudents = [
-    { name: 'AISYAH ALISSYA RAHMAH', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'ALLISA AULIA ZHAFIRAH', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'ANRI RACHMAN', score: Math.floor(Math.random() * 5) + 20, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'ATTHALAH QINTHARA AHMAD', score: Math.floor(Math.random() * 5) + 23, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'AZKA FACHRI NASHIRULHAQ HERMAWAN', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'BAGUS SETYOKO', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'BARIKA ZAHRA JAYUSMAN', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'CAHAYA MUTIARA KASIH', score: Math.floor(Math.random() * 5) + 23, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'DAFI RAIHAN BAYU RAMADHAN', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'DEVHARA GUSTAF RIZKIA', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'FAREL ALFARIZI', score: Math.floor(Math.random() * 5) + 20, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'HANAFI ARDIANSYAH', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'HIKAR ADZWA NAUFAL BHINEKA', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'KAYFAL MUTTAQIN', score: Math.floor(Math.random() * 5) + 23, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'KEYLA PUTRI AZZAHRA', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'KIRANA MAHARDIKA', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MAGNA MEYDA AHMAD', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MAITSAA\' SHAFWAH RAMADHANI', score: Math.floor(Math.random() * 5) + 23, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MANULLANG, LUSIANA PUTRI', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MOCHAMAD DZAKY ASSIDQI', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MUHAMMAD DHAFIN NUGRAHA', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MUHAMMAD IBRAHIM RAYNALDO NUGRAHA', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MUHAMMAD MALIK SHIRAZY', score: Math.floor(Math.random() * 5) + 23, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'MUHAMMAD RASIKH NURRAHIM', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'NUURIL HUDAA AL-FURQAAN', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'RENGGA ARYA PERMANA', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'RIZKI CHANDRA WIJAYA PUTRA', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'SHIMA RATU DONITA', score: Math.floor(Math.random() * 5) + 23, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'ZULAYKA SAFFANAH FARDILLA', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'NADIYAH FALISHA ANDRIYANI SANTOSA', score: Math.floor(Math.random() * 5) + 22, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-    { name: 'NAILA PATHONI', score: Math.floor(Math.random() * 5) + 21, time: `${Math.floor(Math.random() * 5) + 20}:${Math.floor(Math.random() * 60).toString().padStart(2, '0')}` },
-  ];
-  
-  // Check if current user is already in the list
-  const currentUserInList = classStudents.some(student => 
-    student.name.toLowerCase() === state.userName.toLowerCase()
-  );
-  
-  // Add current user to the list if not already present
-  if (!currentUserInList && state.userName) {
-    classStudents.push({
-      name: state.userName,
-      score: score,
-      time: formatTime(timeElapsed)
-    });
-  }
+  // Tidak menggunakan data fiktif lagi, hanya menggunakan data dari database
 
   // Filter out admin/excluded students (Khaiqal, Rafi, Hapidh, Rayhan, dhafin f, aldo)
   const excludedNames = [
@@ -215,20 +168,18 @@ const QuizResults: React.FC = () => {
     time: formatTime(timeElapsed)
   };
 
-  // Create final ranking with real student data, database results, and current user
+  // Create final ranking with database results and current user
   const ranking = [
-    // Use database results if available, otherwise use mock data
-    ...(databaseResults.length > 0 
-      ? databaseResults.map(result => ({
-          name: result.userName,
-          score: result.score,
-          time: formatTime(result.timeElapsed)
-        }))
-      : classStudents.filter(student => !excludedNames.includes(student.name))
-    ),
+    // Use database results
+    ...databaseResults.map(result => ({
+      name: result.userName,
+      score: result.score,
+      time: formatTime(result.timeElapsed)
+    })),
     // Only add current user if not already in database results
     ...(!databaseResults.some(result => result.userName === state.userName) ? [currentUserResult] : [])
-  ].sort((a, b) => b.score - a.score || a.time.localeCompare(b.time))
+  ].filter(player => !excludedNames.includes(player.name))
+   .sort((a, b) => b.score - a.score || a.time.localeCompare(b.time))
    .map((player, index) => ({ ...player, rank: index + 1 }));
 
   const currentPlayerRank = ranking.find(player => player.name === state.userName)?.rank || ranking.length;
