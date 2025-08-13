@@ -46,6 +46,7 @@ const QuizResults: React.FC = () => {
       const quizResult = {
         userName: state.userName,
         score: score,
+        totalQuestions: 30,
         structureScore: structureScore,
         writtenExpressionScore: writtenExpressionScore,
         timeElapsed: timeElapsed,
