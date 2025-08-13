@@ -1,0 +1,397 @@
+{
+  "title": "TOEFL ITP Structure & Written Expression Test",
+  "description": "30 questions total: 15 Structure + 15 Written Expression",
+  "time_limit": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "_____ of classical ballet in the United States began around 1830.",
+      "options": [
+        "A) To teach",
+        "B) Is teaching",
+        "C) It was taught",
+        "D) The teaching"
+      ],
+      "correct": 3,
+      "explanation": "Structure question 1 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 2,
+      "question": "Mason bees are solitary bees, which means _____ in colonies like honeybees or bumblebees.",
+      "options": [
+        "A) do not live",
+        "B) when they do not live",
+        "C) that they do not live",
+        "D) that do not live"
+      ],
+      "correct": 2,
+      "explanation": "Structure question 2 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 3,
+      "question": "Long before the advent of written literature, _____ their myths and stories in oral poems told by successive generations.",
+      "options": [
+        "A) people recorded",
+        "B) recording people",
+        "C) people's recordings",
+        "D) people who recorded"
+      ],
+      "correct": 0,
+      "explanation": "Structure question 3 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 4,
+      "question": "Comparative anatomy is _____ classification of both plants and animals.",
+      "options": [
+        "A) the basis for",
+        "B) for basics",
+        "C) the basis that",
+        "D) the basically"
+      ],
+      "correct": 0,
+      "explanation": "Structure question 4 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 5,
+      "question": "Although legend has it that the Pilgrims first set foot in America on Plymouth Rock in 1620, _____ documentary evidence confirming this.",
+      "options": [
+        "A) no",
+        "B) still is no",
+        "C) there is no",
+        "D) but no"
+      ],
+      "correct": 2,
+      "explanation": "Structure question 5 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 6,
+      "question": "Despite its fishlike form, the whale is _____ and will drown if submerged too long.",
+      "options": [
+        "A) an animal breathes air that",
+        "B) an animal that breathes air",
+        "C) an animal breathes air",
+        "D) that an animal breathes air"
+      ],
+      "correct": 1,
+      "explanation": "Structure question 6 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 7,
+      "question": "Clouds _____ in warm air rises, cools, and condenses.",
+      "options": [
+        "A) when form water vapor",
+        "B) form when water vapor",
+        "C) form vapor water when",
+        "D) vapor form when water"
+      ],
+      "correct": 1,
+      "explanation": "Structure question 7 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 8,
+      "question": "Portland, _____, is located primarily on two hilly peninsulas overlooking Casco Bay and its many islands.",
+      "options": [
+        "A) which Maine's largest city",
+        "B) Maine's largest city where",
+        "C) is Maine's largest city",
+        "D) Maine's largest city"
+      ],
+      "correct": 3,
+      "explanation": "Structure question 8 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 9,
+      "question": "Mars, the so-called red planet, is actually colored red by iron oxide and other impurities _____ the whole surface.",
+      "options": [
+        "A) that cover",
+        "B) in which are covered",
+        "C) that they cover",
+        "D) and covered"
+      ],
+      "correct": 0,
+      "explanation": "Structure question 9 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 10,
+      "question": "The 1903 film The Great Train Robbery was the first significant film in which the classic western story's formula of crime and retribution _____.",
+      "options": [
+        "A) was used",
+        "B) to be used",
+        "C) used",
+        "D) had used"
+      ],
+      "correct": 0,
+      "explanation": "Structure question 10 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 11,
+      "question": "When played in certain ways, the bassoon can produce comical sounds, _____ it is sometimes referred to as the clown of the orchestra.",
+      "options": [
+        "A) or",
+        "B) that",
+        "C) so",
+        "D) whether"
+      ],
+      "correct": 2,
+      "explanation": "Structure question 11 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 12,
+      "question": "In modern societies, _____ authorized body such as a legislature or a court makes the law.",
+      "options": [
+        "A) some",
+        "B) some of",
+        "C) some the",
+        "D) for some"
+      ],
+      "correct": 0,
+      "explanation": "Structure question 12 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 13,
+      "question": "The sense of smell functions chemically, _____ the sense of taste, but it is 10,000 times more sensitive.",
+      "options": [
+        "A) as does",
+        "B) so have",
+        "C) which as",
+        "D) by which"
+      ],
+      "correct": 0,
+      "explanation": "Structure question 13 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 14,
+      "question": "_____ primarily from plant oils, perfumes were used in ancient times as incense in religious rites, in medicines, and later for adornment.",
+      "options": [
+        "A) Made them",
+        "B) They made",
+        "C) Made",
+        "D) By making"
+      ],
+      "correct": 2,
+      "explanation": "Structure question 14 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 15,
+      "question": "Boise became _____ of the state of Idaho in 1864.",
+      "options": [
+        "A) as the capital",
+        "B) the capital",
+        "C) to be the capital",
+        "D) the capital was"
+      ],
+      "correct": 1,
+      "explanation": "Structure question 15 - focuses on grammatical structures and sentence completion.",
+      "type": "structure"
+    },
+    {
+      "id": 16,
+      "question": "Identify the error in: Soybeans contain a rich concentrations of phytoestrogens, estrogenlike molecules derived from plants.",
+      "options": [
+        "A) rich",
+        "B) concentrations",
+        "C) estrogenlike",
+        "D) derived"
+      ],
+      "correct": 1,
+      "explanation": "Written Expression question 16 - the error is in 'concentrations' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 17,
+      "question": "Identify the error in: The original Welland Canal, opened which in 1829, was neither deep enough nor wide enough for modern ships.",
+      "options": [
+        "A) opened which",
+        "B) neither",
+        "C) wide",
+        "D) enough for modern"
+      ],
+      "correct": 0,
+      "explanation": "Written Expression question 17 - the error is in 'opened which' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 18,
+      "question": "Identify the error in: A lubricant minimizes the introduction of dirt, moisture, or other foreign materials between sliding surfaces, eliminates wear by keeping the surfaces apart, and prevention corrosion.",
+      "options": [
+        "A) introduction",
+        "B) between",
+        "C) eliminates",
+        "D) prevention"
+      ],
+      "correct": 3,
+      "explanation": "Written Expression question 18 - the error is in 'prevention' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 19,
+      "question": "Identify the error in: There are thousands of stars in the galaxy that have planets.",
+      "options": [
+        "A) There are",
+        "B) thousands",
+        "C) galaxy that",
+        "D) have"
+      ],
+      "correct": 0,
+      "explanation": "Written Expression question 19 - the error is in 'There are' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 20,
+      "question": "Identify the error in: The symptoms of pneumonia, a lung infection, include high fever, chest pain, breathing difficult, and coughing.",
+      "options": [
+        "A) symptoms",
+        "B) include",
+        "C) breathing difficult",
+        "D) coughing"
+      ],
+      "correct": 2,
+      "explanation": "Written Expression question 20 - the error is in 'breathing difficult' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 21,
+      "question": "Identify the error in: A basic premise of humanism is that people are rational beings who possesses the capacity for truth.",
+      "options": [
+        "A) basic premise",
+        "B) are",
+        "C) possesses",
+        "D) capacity"
+      ],
+      "correct": 2,
+      "explanation": "Written Expression question 21 - the error is in 'possesses' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 22,
+      "question": "Identify the error in: The long of time a battery maintains its useful life while idle depends on many factors.",
+      "options": [
+        "A) long",
+        "B) maintains",
+        "C) while idle",
+        "D) depends"
+      ],
+      "correct": 0,
+      "explanation": "Written Expression question 22 - the error is in 'long' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 23,
+      "question": "Identify the error in: Leather is dried under natural or controlled humidity conditions, prepared it for subsequent softening operations.",
+      "options": [
+        "A) dried",
+        "B) controlled",
+        "C) prepared it",
+        "D) subsequent"
+      ],
+      "correct": 2,
+      "explanation": "Written Expression question 23 - the error is in 'prepared it' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 24,
+      "question": "Identify the error in: Radar can determine the direction, distance, height, and speed of objects that are too much far away for the human eye to see.",
+      "options": [
+        "A) determine",
+        "B) too much",
+        "C) far away",
+        "D) human eye"
+      ],
+      "correct": 1,
+      "explanation": "Written Expression question 24 - the error is in 'too much' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 25,
+      "question": "Identify the error in: Establishing outside Minneapolis, Minnesota, in 1976, the Minnesota Valley National Wildlife Refuge contains more than 9,000 acres.",
+      "options": [
+        "A) Establishing",
+        "B) contains",
+        "C) more than",
+        "D) acres"
+      ],
+      "correct": 0,
+      "explanation": "Written Expression question 25 - the error is in 'Establishing' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 26,
+      "question": "Identify the error in: Most animals have salivary glands what resemble those in humans.",
+      "options": [
+        "A) Most",
+        "B) have",
+        "C) what",
+        "D) those"
+      ],
+      "correct": 2,
+      "explanation": "Written Expression question 26 - the error is in 'what' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 27,
+      "question": "Identify the error in: Used for making pottery, clay has two characteristics distinctive: it can be molded and it can be baked.",
+      "options": [
+        "A) making",
+        "B) characteristics distinctive",
+        "C) molded",
+        "D) baked"
+      ],
+      "correct": 1,
+      "explanation": "Written Expression question 27 - the error is in 'characteristics distinctive' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 28,
+      "question": "Identify the error in: The novels of Amy Tan depict of tension between mothers and daughters as well as conflicts experienced by many Chinese immigrants.",
+      "options": [
+        "A) depict of",
+        "B) between",
+        "C) as well as",
+        "D) experienced by"
+      ],
+      "correct": 0,
+      "explanation": "Written Expression question 28 - the error is in 'depict of' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 29,
+      "question": "Identify the error in: Of all the organized, independent city in Texas, Laredo, founded in 1755, is the oldest.",
+      "options": [
+        "A) organized",
+        "B) city",
+        "C) founded",
+        "D) oldest"
+      ],
+      "correct": 1,
+      "explanation": "Written Expression question 29 - the error is in 'city' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    },
+    {
+      "id": 30,
+      "question": "Identify the error in: The element potassium makes up less than one half percentage of the human body.",
+      "options": [
+        "A) element",
+        "B) makes up",
+        "C) one half percentage",
+        "D) human body"
+      ],
+      "correct": 2,
+      "explanation": "Written Expression question 30 - the error is in 'one half percentage' which should be corrected for proper grammar.",
+      "type": "written_expression"
+    }
+  ]
+}
